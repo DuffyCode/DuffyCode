@@ -8,6 +8,12 @@ Here are some ideas to get you started:
 
 ## Habilitys 
 
-- Knowleage = [C#, C++, C, Python, Java, JavaScript, TypeScript, PHP, MySQL, HTML, CSS]
-- modelingTools = Blender
-- experience in game design using Unity
+```python
+Knowleage = ["C#", "C++", "C", "Python", "Java", "JavaScript", "TypeScript", "PHP", "MySQL", "HTML", "CSS"]
+modelingTools = "Blender"
+```
+```c#
+public void EngineKnowleage() {
+ console.log("experience in game design using Unity");
+}
+```
