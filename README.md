@@ -9,8 +9,11 @@ Here are some ideas to get you started:
 ## Habilitys 
 
 ```python
-Knowleage = ["C#", "C++", "C", "Python", "Java", "JavaScript", "TypeScript", "PHP", "MySQL", "HTML", "CSS", "React", "NestJS", "Git"]
+Language = ["C#", "C++", "C", "Python", "Java", "JavaScript", "TypeScript", "PHP", "MySQL", "HTML", "CSS"]
 modelingTools = "Blender"
+```
+```javascript
+ const frameworks = {"React", "NestJS", "Git"}
 ```
 ```c#
 public void EngineKnowleage() {
