@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ## Habilitys 
 
 ```python
-Language = ["C#", "C++", "C", "Python", "Java", "JavaScript", "TypeScript", "PHP", "MySQL", "HTML", "CSS"]
+language = ["C#", "C++", "C", "Python", "Java", "JavaScript", "TypeScript", "PHP", "MySQL", "HTML", "CSS"]
 modelingTools = "Blender"
 ```
 ```javascript
