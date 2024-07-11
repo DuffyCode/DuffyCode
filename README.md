@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ## Habilitys 
 
 ```python
-Knowleage = ["C#", "C++", "C", "Python", "Java", "JavaScript", "TypeScript", "PHP", "MySQL", "HTML", "CSS"]
+Knowleage = ["C#", "C++", "C", "Python", "Java", "JavaScript", "TypeScript", "PHP", "MySQL", "HTML", "CSS", "React", "NestJS", "Git"]
 modelingTools = "Blender"
 ```
 ```c#
