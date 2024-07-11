@@ -13,7 +13,8 @@ Language = ["C#", "C++", "C", "Python", "Java", "JavaScript", "TypeScript", "PHP
 modelingTools = "Blender"
 ```
 ```javascript
- const frameworks = {"React", "NestJS", "Git"}
+ const frameworks = "NestJS"
+ const knowleage = {"React", "Git"} 
 ```
 ```c#
 public void EngineKnowleage() {
